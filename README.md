@@ -25,7 +25,8 @@ computacional e modelos preditivos.
 |---|---|---|
 | [**Smart Carb Assistant**](https://github.com/PituchoX/Smart-Carb-Assistant) | Estima os hidratos de carbono de um prato a partir de uma foto. Modelo de segmentação treinado por mim (mAP50 de 0,215 para 0,301) e modelo de peso com dados reais (erro de 113 g para 35 g). | Python, YOLOv8, scikit-learn, Streamlit |
 | [**Classificador de Imagens**](https://github.com/PituchoX/Classificador-de-Imagens-Otimizacao-Swarm-CNN) | Transfer learning com otimização de hiperparâmetros por algoritmos de Swarm (PSO e WSA). | Python, Keras, scikit-learn |
-| [**Gestão de Vending Machines**](https://github.com/PituchoX/Sistema-de-Gestao-de-Vending-Machines) | Base de dados relacional com PL/SQL, ETL em Python e dashboard analítico. | Oracle, PL/SQL, Python, Power BI |
+| [**Data Mart Porto da Figueira da Foz**](https://github.com/PituchoX/Data-Mart-Porto-Figueira-da-Foz) | Modelo em estrela em SQL Server, ETL em Python a partir de MySQL e CSV, e dashboard em Power BI. | Python, SQL Server, MySQL, Power BI |
+
 
 ### Tecnologias
 
